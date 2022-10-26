@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Robert Wolfkisser",
+      "job": "engineer",
+      "email": "rob_wolf@gmail.com",
+      "phone": "+44 (452) 886 09 12"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Jill Jailbreaker",
+      "job": "engineer",
+      "email": "jj@breaker.com",
+      "phone": "+44 (934) 777 12 76"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "Henry Silkeater",
+      "job": "designer",
+      "email": "henry@silkeater.io",
+      "phone": "+44 (901) 384 88 34"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "Bill Horsefighter",
+      "job": "designer",
+      "email": "bhorsefighter@gmail.com",
+      "phone": "+44 (667) 341 45 22"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "name": "Jeremy Footviewer",
+      "job": "Manager",
+      "email": "jeremy@foot.dev",
+      "phone": "+44 (881) 245 65 65"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "name": "Robert Glassbreaker",
+      "job": "SOFTWARE ENGINEER",
+      "email": "robert@glassbreaker.io",
+      "phone": "+11 (876) 890 56 23"
+    }
+  ],
+  "users": [{ "id": 1, "email": "gg@gg", "password": "123456" }]
+}
